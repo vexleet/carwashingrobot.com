@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://carwashingrobot.com/sitemap.xml

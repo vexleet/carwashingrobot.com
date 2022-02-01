@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "carwashingrobot.com",
+    "description": "",
+    "home_page_url": "https://carwashingrobot.com",
+    "feed_url": "https://carwashingrobot.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "udplantning.com"
+    },
+    "items": [
+    ]
+}
